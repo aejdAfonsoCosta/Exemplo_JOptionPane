@@ -6,6 +6,8 @@ public class Exemplos extends javax.swing.JFrame {
 
     public Exemplos() {
         initComponents();
+        // Inicialização da janela.
+        // para exemplo de repositório.
     }
 
     /**
